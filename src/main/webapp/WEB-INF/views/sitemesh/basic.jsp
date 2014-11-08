@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <title><decorator:title/></title>
 
     <link href="/resources/bootstrap/bootstrap.css" rel="stylesheet">
@@ -30,7 +30,7 @@
                     <ul class="nav">
                         <li class="active"><a href="#">首頁</a></li>
                         <li><a href="#about">書店</a></li>
-                        <li><a href="#contact">註冊</a></li>
+                        <li><a href="/Register/View">註冊</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">帳號管理 <b class="caret"></b></a>
                             <ul class="dropdown-menu">

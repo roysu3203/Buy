@@ -1,13 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <title>Buy</title>
 </head>
 
 <body>
-
 	<div class="hero-unit">
 		<h1>Welcome!</h1>
 		<br>
@@ -31,6 +29,5 @@
 	        <p><a class="btn" href="#">View details &raquo;</a></p>
 	    </div>
 	</div>
-
 </body>
 </html>
